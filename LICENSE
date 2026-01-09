@@ -1,21 +1,52 @@
-MIT License
+# Proprietary License
 
-Copyright (c) 2026 Raphael Mecozzi
+Copyright © 2025 - All Rights Reserved
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Ownership
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This project, including but not limited to:
+- The Smart Procurement Engine source code
+- The database schema and design
+- The optimization algorithms and business logic
+- All documentation and associated materials
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+is the **exclusive intellectual property** of the repository owner (Rp701).
+
+## Permitted Uses
+
+This repository is made publicly available **solely for portfolio and educational demonstration purposes** to showcase technical skills to potential employers, recruiters, and educational institutions.
+
+You are permitted to:
+- ✅ View the code and documentation
+- ✅ Reference this work in discussions about software architecture and design patterns
+- ✅ Use this project as a learning resource for educational purposes
+
+## Prohibited Uses
+
+The following uses are **strictly prohibited** without explicit written permission from the copyright holder:
+
+- ❌ **Commercial Use:** Using this code, algorithms, or database schema in any commercial product, service, or business operation
+- ❌ **Production Deployment:** Deploying this system or any derivative works in production environments
+- ❌ **Distribution:** Redistributing, sublicensing, or sharing modified or unmodified versions of this code
+- ❌ **Derivative Works:** Creating derivative works based on this codebase for commercial purposes
+- ❌ **Patent/Trademark Claims:** Filing patents or trademarks based on the ideas, algorithms, or implementations contained herein
+
+## Disclaimer
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Licensing Inquiries
+
+For licensing inquiries, partnership opportunities, or permission to use this code in commercial applications, please contact:
+
+- **GitHub:** [Rp701](https://github.com/Rp701)
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [Your Email]
+
+---
+
+**Important Notice:** Unauthorized commercial use of this code may result in legal action. By accessing this repository, you agree to comply with the terms set forth in this license.
+
+**Last Updated:** January 9, 2025
