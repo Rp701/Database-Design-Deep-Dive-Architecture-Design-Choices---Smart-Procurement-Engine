@@ -472,21 +472,20 @@ WHERE CURRENCY_ISO NOT IN ('EUR', 'USD');
 
 **Answer:**
 ```
-The data is 100% SYNTHETIC but REALISTICALLY MODELED.
+The data is 100% SYNTHETIC, generated specifically for this portfolio project.
 
-Methodology:
-1. Price Distribution: Based on scraped analysis from real vendors
-   (e.g., Amazon IT, BPM-Power, NextHS)
-   
-2. Supplier Specialization: Clustering algorithm to simulate
-   vendors focusing on specific categories
-   (e.g., some vendors only have high-end GPU/CPU)
-   
-3. Variance Injection: Added Gaussian noise (σ=5%) to prices
-   to simulate market fluctuations
-   
-4. Logistics Constraints: Minimum order and shipping derived from
-   real Italian B2B policies (€50 MOQ std, €9.90 shipping std)
+Design Approach:
+- Created with AI-assisted tools to simulate a realistic warehouse scenario
+- Modeled after real B2B procurement patterns (MOQ thresholds, shipping costs)
+- Intentionally designed with 16.5 avg suppliers/SKU for optimization complexity
+- Multi-currency support (EUR/USD) to demonstrate forex arbitrage capabilities
+
+**Key Point:** While the data itself is synthetic, the *architectural decisions*
+and *design patterns* reflect real-world enterprise database challenges:
+- Referential integrity constraints
+- Performance vs normalization trade-offs
+- Audit trail requirements
+- Scalability considerations
 ```
 
 **Advantages of Synthetic Data:**
