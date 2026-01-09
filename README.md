@@ -564,9 +564,9 @@ This document itself demonstrates:
 4. Integration with ERP systems (SAP, Oracle)
 
 **Contact:**
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/raphael-mecozzi/
 - GitHub: [Rp701](https://github.com/Rp701)
-- Email: [Your Email]
+- Email: raphaelmecozzi@gmail.com
 
 ---
 
